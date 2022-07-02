@@ -1,0 +1,59 @@
+{
+  "productList": [
+    {
+      "productName": "orange",
+      "category": "Fruits",
+      "freshness": "second Hand",
+      "price": 600,
+      "comment": "hello",
+      "date": "2022-03-24T22:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "kudra",
+      "category": "Vegetables",
+      "freshness": "Brand new",
+      "price": 100,
+      "comment": "buja",
+      "date": "2022-03-31T22:00:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "salamu",
+      "category": "Electronic",
+      "freshness": "Brand new",
+      "price": 900,
+      "comment": "nunu",
+      "date": "2022-04-04T22:00:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "ncuti",
+      "category": "Vegetables",
+      "freshness": "Refurbished",
+      "price": 11,
+      "comment": "new",
+      "date": "2022-04-10T22:00:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "buja",
+      "category": "Electronic",
+      "freshness": "Brand new",
+      "price": 3454,
+      "comment": "nic",
+      "date": "2022-04-25T22:00:00.000Z",
+      "id": 7
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
